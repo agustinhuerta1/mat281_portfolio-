@@ -9,7 +9,7 @@ dependencies:
   - widgetsnbextension
   # Python kernel
   - altair=4
-  - altair_saver
+  - alt.data_transformers.disable_max_rows()
   - beautifulsoup4=4.9
   - geopandas
   - h5py
